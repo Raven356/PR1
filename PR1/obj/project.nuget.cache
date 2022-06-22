@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kV6Xl8oG+jx1m+RBWsQDsuxyBRP7SVOY3079rDK7wXdMzAVbq/To6Pn2hoVVnjf9oGth2Lwf0wPuIpSpv31Sxg==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\дз\\PR1\\PR1\\PR1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raven\\.nuget\\packages\\sonaranalyzer.csharp\\8.38.0.46746\\sonaranalyzer.csharp.8.38.0.46746.nupkg.sha512"
+  ],
+  "logs": []
+}
